@@ -1,0 +1,11 @@
+it/unipi/hadoop/LetterCount$LetterCountReducer.class
+it/unipi/hadoop/LetterCount$LetterCountMapper.class
+it/unipi/hadoop/LetterCountMain.class
+it/unipi/hadoop/LetterCountInMapper$LetterCountMapper.class
+it/unipi/hadoop/LetterCountNoCombiner.class
+it/unipi/hadoop/LetterCountNoCombiner$LetterCountReducer.class
+it/unipi/hadoop/LetterCountNoCombiner$LetterCountMapper.class
+it/unipi/hadoop/LetterCount.class
+it/unipi/hadoop/LetterCountInMapper.class
+it/unipi/hadoop/LetterCount$LetterCountCombiner.class
+it/unipi/hadoop/LetterCountInMapper$LetterCountReducer.class
